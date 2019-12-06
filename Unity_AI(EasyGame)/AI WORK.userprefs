@@ -1,0 +1,21 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\player\player.cs">
+    <Files>
+      <File FileName="Assets\att.cs" Line="17" Column="3" />
+      <File FileName="Assets\playerHP.cs" Line="39" Column="3" />
+      <File FileName="Assets\bearatt.cs" Line="39" Column="1" />
+      <File FileName="Assets\player\player.cs" Line="47" Column="4" />
+      <File FileName="Assets\enemyAI.cs" Line="1" Column="1" />
+      <File FileName="Assets\enemyAI2.cs" Line="6" Column="16" />
+      <File FileName="Assets\enemyAI3.cs" Line="35" Column="31" />
+      <File FileName="Assets\enemyHP.cs" Line="26" Column="29" />
+      <File FileName="Assets\ButtonManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\winpeople\win.cs" Line="18" Column="35" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

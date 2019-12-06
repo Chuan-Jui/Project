@@ -1,0 +1,105 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<c2uistate>
+    <!--This is a UI state file - its content describes the user interface settings when the project was last open.
+It is entirely optional and the project will load without it.  If you are placing the project under source control,
+you probably do not want to add any .uistate.xml files to the repository.-->
+    <configurations>
+        <active>
+            <configuration name="HTML5" />
+        </active>
+        <display name="HTML5" />
+    </configurations>
+    <open-tabs>
+        <layout order="0">menu</layout>
+        <layout order="3">Layout 1</layout>
+        <layout order="4">Gameover</layout>
+        <event-sheet active="1" order="1">menu</event-sheet>
+        <event-sheet order="2">Event sheet 1</event-sheet>
+        <event-sheet order="5">Game sheet</event-sheet>
+    </open-tabs>
+    <properties>
+        <property expanded="0" name="About" />
+        <property expanded="1" name="Project settings" />
+        <property expanded="1" name="Window Size" />
+        <property expanded="1" name="Configuration Settings" />
+    </properties>
+    <families-expanded root="1" />
+    <folders-expanded>
+        <folder expanded="1" path="object-folder/" />
+        <folder expanded="1" path="layout-folder/" />
+        <folder expanded="1" path="event-folder/" />
+        <folder expanded="0" path="file-folder/" />
+        <folder expanded="1" path="sound-folder/" />
+        <folder expanded="1" path="music-folder/" />
+        <folder expanded="0" path="file-folder/Icons/" />
+        <folder expanded="1" path="animation-folder/710cf3ff/" />
+        <folder expanded="1" path="animation-folder/mon_/" />
+        <folder expanded="1" path="animation-folder/mon_2/" />
+        <folder expanded="1" path="animation-folder/crate_/" />
+        <folder expanded="1" path="animation-folder/set3_tiles/" />
+        <folder expanded="1" path="animation-folder/set3_hills/" />
+        <folder expanded="1" path="animation-folder/ground_grass/" />
+        <folder expanded="1" path="animation-folder/gummyWormRedHead/" />
+        <folder expanded="1" path="animation-folder/cakeCenter/" />
+        <folder expanded="1" path="animation-folder/cakeCenter_rounded/" />
+        <folder expanded="1" path="animation-folder/cakeCenter2/" />
+        <folder expanded="1" path="animation-folder/cake/" />
+        <folder expanded="1" path="animation-folder/spikeBall/" />
+        <folder expanded="1" path="animation-folder/flyMan_fly/" />
+        <folder expanded="1" path="animation-folder/jungle_pack_/" />
+        <folder expanded="1" path="animation-folder/jungle_pack_2/" />
+        <folder expanded="1" path="animation-folder/jungle_pack_3/" />
+        <folder expanded="1" path="animation-folder/jungle_pack_4/" />
+        <folder expanded="1" path="animation-folder/spikeMan_stand/" />
+        <folder expanded="1" path="animation-folder/spikeMan_walk/" />
+        <folder expanded="1" path="animation-folder/spikeMan_stand2/" />
+        <folder expanded="1" path="animation-folder/wingMan/" />
+        <folder expanded="1" path="animation-folder/jungle_pack_5/" />
+        <folder expanded="1" path="animation-folder/jungle_pack_6/" />
+        <folder expanded="1" path="animation-folder/jungle_pack_7/" />
+        <folder expanded="1" path="animation-folder/apple/" />
+        <folder expanded="1" path="animation-folder/coin_gold/" />
+        <folder expanded="1" path="animation-folder/Sprite/" />
+        <folder expanded="1" path="animation-folder/分數/" />
+        <folder expanded="1" path="animation-folder/下載/" />
+        <folder expanded="1" path="animation-folder/Hands/" />
+        <folder expanded="1" path="animation-folder/verygood_logo/" />
+        <folder expanded="1" path="animation-folder/verygoodcrocodilemotivationalstamphs021a6c/" />
+        <folder expanded="1" path="animation-folder/verygoodcrocodilemotivationalstamphs021a6c2/" />
+        <folder expanded="1" path="animation-folder/sample/" />
+        <folder expanded="1" path="animation-folder/start/" />
+        <folder expanded="1" path="animation-folder/下載2/" />
+        <folder expanded="1" path="animation-folder/start_/" />
+        <folder expanded="1" path="animation-folder/Flag_of_Afghanistan_1880–1901svg_1280x/" />
+        <folder expanded="1" path="animation-folder/LINE綠色背景圖/" />
+        <folder expanded="1" path="animation-folder/LINE綠色背景圖2/" />
+        <folder expanded="1" path="animation-folder/Sprite2/" />
+        <folder expanded="1" path="animation-folder/flagGreen_up/" />
+        <folder expanded="1" path="animation-folder/Flag_of_Afghanistan_1880–1901svg_1280x2/" />
+        <folder expanded="1" path="animation-folder/gmaeover/" />
+        <folder expanded="1" path="animation-folder/maxresdefault/" />
+        <folder expanded="1" path="animation-folder/keyGreen/" />
+        <folder expanded="1" path="animation-folder/blockGreen_key/" />
+        <folder expanded="1" path="animation-folder/doorGreen_top/" />
+        <folder expanded="1" path="animation-folder/doorGreen_lock/" />
+        <folder expanded="1" path="animation-folder/sample2/" />
+        <folder expanded="1" path="animation-folder/playerRed_duck/" />
+        <folder expanded="1" path="animation-folder/playerRed_up/" />
+        <folder expanded="1" path="animation-folder/playerGrey_swim/" />
+        <folder expanded="1" path="animation-folder/playerGreen_duck/" />
+        <folder expanded="1" path="animation-folder/playerGreen_hit/" />
+        <folder expanded="1" path="animation-folder/playerBlue_switch/" />
+        <folder expanded="1" path="animation-folder/playerBlue_walk/" />
+        <folder expanded="1" path="animation-folder/bad/" />
+        <folder expanded="1" path="animation-folder/jungle_pack_9/" />
+        <folder expanded="1" path="animation-folder/green/" />
+        <folder expanded="1" path="animation-folder/b1/" />
+        <folder expanded="1" path="animation-folder/fly/" />
+        <folder expanded="1" path="animation-folder/火元素去/" />
+        <folder expanded="1" path="animation-folder/fire/" />
+        <folder expanded="1" path="animation-folder/木去背/" />
+        <folder expanded="1" path="animation-folder/Sprite3/" />
+        <folder expanded="1" path="animation-folder/Sprite4/" />
+        <folder expanded="1" path="animation-folder/Sprite5/" />
+    </folders-expanded>
+</c2uistate>
