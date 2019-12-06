@@ -13,3 +13,11 @@ https://drive.google.com/drive/folders/10cbLHgvv-zYAgW3EQ9b7o-TztkvI3FrT?usp=sha
 <br>的危機，有更正確的觀念，得以讓台灣的生態可以永續發展。<br>
 <br>檔案載點<br>
 https://drive.google.com/drive/folders/1I8Xrrx4ytYdIX5LHEwEpGzhPsKCkWUnS?usp=sharing
+  
+---
+
+#### <h3>[Sophomore_project(Web)](https://github.com/Chuan-Jui/Project/tree/master/Sophomore_project(Web))
+<br>大學二年級專題<br>
+<br>配合學校為廠商撰寫網頁<br>
+
+
