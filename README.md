@@ -19,5 +19,11 @@ https://drive.google.com/drive/folders/1I8Xrrx4ytYdIX5LHEwEpGzhPsKCkWUnS?usp=sha
 #### <h3>[Sophomore_project(Web)](https://github.com/Chuan-Jui/Project/tree/master/Sophomore_project(Web))
 大學二年級專題
 <br>配合學校為廠商撰寫網頁<br>
+ 
+---
+
+#### <h3>[Speech_simulation(VR)](https://github.com/Chuan-Jui/Project/tree/master/Speech_simulation(VR))
+Side project
+<br>在VR環境中模擬演講場景<br>
 
 
