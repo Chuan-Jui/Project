@@ -17,7 +17,7 @@ https://drive.google.com/drive/folders/1I8Xrrx4ytYdIX5LHEwEpGzhPsKCkWUnS?usp=sha
 ---
 
 #### <h3>[Sophomore_project(Web)](https://github.com/Chuan-Jui/Project/tree/master/Sophomore_project(Web))
-<br>大學二年級專題<br>
+大學二年級專題
 <br>配合學校為廠商撰寫網頁<br>
 
 
