@@ -7,7 +7,7 @@ https://drive.google.com/drive/folders/10cbLHgvv-zYAgW3EQ9b7o-TztkvI3FrT?usp=sha
 
 #### <h3>[Junior_project(VR_Game)](https://github.com/Chuan-Jui/Project/tree/master/Junior_project(VR_Game))
 <br>大學三年級專題，負責全部程式部分。<br>
-<br>以VR的方式設計一款具有教育性的互動式遊戲，讓大家更了解台灣漁業近年來所面臨
-的危機，有更正確的觀念，得以讓台灣的生態可以永續發展。
+以VR的方式設計一款具有教育性的互動式遊戲，讓大家更了解台灣漁業近年來所面臨
+<br>的危機，有更正確的觀念，得以讓台灣的生態可以永續發展。<br>
 <br>檔案載點<br>
 https://drive.google.com/drive/folders/1I8Xrrx4ytYdIX5LHEwEpGzhPsKCkWUnS?usp=sharing
