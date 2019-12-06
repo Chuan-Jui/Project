@@ -1,7 +1,5 @@
 <table>
-    <tr>
-        <td>Graduation_project(VR_Game)</td>
-    </tr>
+        Graduation_project(VR_Game)
 </table>
 大學畢業專題利用高樓大廈之間的距離以及樓層的高度差距，進行目標性的行走在不同高度的鋼索，
 行走到標地物之間會有外物的干擾，例如直升機的經過帶來的風速增加行走的難度，而途中會讓玩家
