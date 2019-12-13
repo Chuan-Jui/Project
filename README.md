@@ -1,3 +1,13 @@
+#### <h3> [Ethereum_Dapp](https://github.com/Chuan-Jui/Project/tree/master/Ethereum_Dapp)
+<br>大學碩士課程project<br>
+針對國小生設計，結合數學邏輯與環保知識的卡牌蒐集益智遊戲
+<br>詳細內容如內PPT<br>
+
+
+
+
+
+
 #### <h3> [Graduation_project(VR_Game)](https://github.com/Chuan-Jui/Project/tree/master/Graduation_project(VR_Game))
 <br>大學畢業專題，負責全部程式部分。<br>
 以實體的獨木橋平衡木模擬在VR視覺中的鋼索，利用平衡木晃動的角度讓玩家在行走
