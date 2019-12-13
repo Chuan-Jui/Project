@@ -1,5 +1,5 @@
 #### <h3> [Ethereum_Dapp](https://github.com/Chuan-Jui/Project/tree/master/Ethereum_Dapp)
-大學碩士課程project
+政大碩士課程project
 <br>針對國小生設計，結合數學邏輯與環保知識的卡牌蒐集益智遊戲<br>
 <br>詳細內容如內PPT<br>
 
