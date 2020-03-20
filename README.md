@@ -1,7 +1,7 @@
-#### <h3> [Fish_new(Ethereum_Dapp)](https://github.com/Chuan-Jui/Project/tree/master/Graduation_project(VR_Game))
-<br>大學畢業專題，負責全部程式部分。<br>
-以實體的獨木橋平衡木模擬在VR視覺中的鋼索，利用平衡木晃動的角度讓玩家在行走
-<br>時更真實的體驗到在高空走鋼索的臨場感。<br>
+#### <h3> [Fish_new(Ethereum_Dapp)](https://github.com/Chuan-Jui/Project/tree/master/Fish_new(Ethereum_Dapp))
+<br>碩士"陳昶吾"老師期末Project，負責全部程式部分和專案構想。<br>
+使用1A2B數學遊戲結合魚類卡片收集，來達到學習數學兼具保育的作用
+<br>第一個製作的DAPP。<br>
 
 ---
 
