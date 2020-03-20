@@ -1,5 +1,5 @@
 #### <h3> [Fish_new(Ethereum_Dapp)](https://github.com/Chuan-Jui/Project/tree/master/Fish_new(Ethereum_Dapp))
-<br>碩士"陳昶吾"老師期末Project，負責全部程式部分和專案構想。<br>
+<br>碩士課程，"陳昶吾"老師教授之期末Project，負責全部程式部分和專案構想。<br>
 使用1A2B數學遊戲結合魚類卡片收集，來達到學習數學兼具保育的作用
 <br>第一個製作的D。<br>
 
